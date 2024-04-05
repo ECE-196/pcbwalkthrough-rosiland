@@ -5,9 +5,7 @@
 Rosalind Chou
 
 ### Added
-image of circuit schematic
-image of PCB layout
-image of 3D PCB
+images of circuit schematic, PCB layout, and 3D PCB
 
 ### Changed
 none
